@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meta Unveils Llama 4 Series, Marking a Major Leap in AI Model Efficiency and Accessibility"
+title: "Shopify CEO Mandates AI-First Approach Before Headcount Expansion: “Prove It Can’t Be Done by AI”"
 date: 2025-04-08 02:16:26 +0000
 categories: News
 excerpt_image: 
