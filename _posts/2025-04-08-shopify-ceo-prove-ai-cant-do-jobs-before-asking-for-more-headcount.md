@@ -8,7 +8,7 @@ image:
 ---
 
 In an era where artificial intelligence is becoming an increasingly integral part of daily operations, **Shopify CEO Tobi Lütke** is doubling down on the company’s commitment to AI-driven efficiency — and making it crystal clear that old hiring habits no longer apply.
-
+![alt text](unnamed.jpg)
 In a recent internal memo — which Lütke later made public on X — the Shopify founder told employees they must **demonstrate that their goals cannot be accomplished using AI tools** before requesting additional staffing or resources.
 
 The message was direct: "What would this area look like if autonomous AI agents were already part of the team?" he wrote. The rhetorical question serves as both a thought experiment and a practical challenge for Shopify teams to rethink how work is assigned, optimized, and scaled in an AI-native environment.
