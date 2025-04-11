@@ -7,7 +7,6 @@ excerpt_image: https://images.samsung.com/is/image/samsung/assets/uk/support/luc
 image: https://images.samsung.com/is/image/samsung/assets/uk/support/lucidcx/whatisgameboosterandhowdoiuseitheader.png
 ---
 *Level up your mobile gaming like a pro.*
-![The Ultimate Guide to Samsung Game Booster](https://github.com/user-attachments/assets/d9d2b1e5-5e64-4147-844d-9047acdccfbd)
 
 If you’ve got a Samsung phone and you love gaming, **Samsung Game Booster** is your secret weapon. It’s a built-in feature that helps you block distractions, boost performance, and customize your gaming experience. Whether you're going all-in on PUBG Mobile or casually grinding in Candy Crush, this guide will walk you through everything you need to know.
 
@@ -24,6 +23,7 @@ It’s easy:
 Boom, you’re in.
 
 ---
+![The Ultimate Guide to Samsung Game Booster](https://github.com/user-attachments/assets/d9d2b1e5-5e64-4147-844d-9047acdccfbd)
 
 ## 🚫 **Block During Game**  
 This section is all about keeping your gameplay distraction-free. Here’s what you can block:
