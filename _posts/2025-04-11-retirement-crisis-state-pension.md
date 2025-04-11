@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Stealth Squeeze: Why UK Pensioners Feel Blindsided by Rising Tax Bills"
-date:   2025-04-11 02:16:26 +0000
+date:   2025-04-10 02:16:26 +0000
 categories: News
 excerpt_image: https://i2-prod.bristolpost.co.uk/article9976453.ece/ALTERNATES/s615/0_Telephone-scams-targeting-seniors-Scammer-making-phone-call-with-elderly-woman-asking-for-money-demanding-personal.jpg
 image: https://i2-prod.bristolpost.co.uk/article9976453.ece/ALTERNATES/s615/0_Telephone-scams-targeting-seniors-Scammer-making-phone-call-with-elderly-woman-asking-for-money-demanding-personal.jpg
