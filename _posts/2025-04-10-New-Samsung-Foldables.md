@@ -11,6 +11,8 @@ Hello everyone,
 
 Browse online lately, you might have heard whispers about the *upcoming* foldable phones from Samsung, right? Even though it's still a few months until summer – when Samsung usually introduces the new Z Fold and Z Flip – the tech community is already getting excited and speculating about all sorts of things.
 
+![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Recents-app-menu-in-One-UI-7.0.jpg)
+
 **Why Are Foldable Phones So Interesting?**
 
 Simply because they're... different and cool! Instead of a normal flat screen, you get a phone that can fold neatly in half (like the Z Flip) or open up into a mini-tablet (like the Z Fold). It's both convenient and showcases Samsung's latest technology. So, every time a new generation is coming, everyone gets curious about how Samsung will make it even better.
@@ -33,7 +35,7 @@ Here are some of the "hot" points gathered from recent rumors (but remember, the
 
 5.  **Stronger Performance and Better Battery Life:**
     * This is almost a certainty. The new phones will feature the latest, more powerful processors to run all apps and games smoothly. Battery life is also crucial, and everyone hopes for improvements so the phones last longer throughout the day.
-![](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Recents-app-menu-in-One-UI-7.0.jpg)
+
 **Important to Remember:**
 
 All the points mentioned above are currently **just rumors and leaked information**. We need to wait until Samsung officially launches the products (usually around July or August) to know exactly what the Z Fold7 and Z Flip7 will be like.
