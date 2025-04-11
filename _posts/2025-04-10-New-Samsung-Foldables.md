@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Heard Rumors About the New Samsung Foldables (Z Fold7, Z Flip7)? Anything "Hot" Worth Waiting For?"
+title: "Heard Rumors About the New Samsung Foldables (Z Fold7, Z Flip7)? Anything 'Hot' Worth Waiting For?"
 date:   2025-04-10 02:11:26 +0000
 categories: Blog
 excerpt_image: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Recents-app-menu-in-One-UI-7.0.jpg
