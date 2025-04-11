@@ -1,5 +1,3 @@
-aldi solar garden ornament
-
 ---
 layout: post
 title: "Aldi's Spring Sparkle: My Review of the Latest UK Solar Garden Lights (2025)"
