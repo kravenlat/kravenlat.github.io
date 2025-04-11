@@ -7,8 +7,6 @@ excerpt_image: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/
 image: https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Recents-app-menu-in-One-UI-7.0.jpg
 ---
 
-**Heard Rumors About the New Samsung Foldables (Z Fold7, Z Flip7)? Anything "Hot" Worth Waiting For?**
-
 Hello everyone,
 
 Browse online lately, you might have heard whispers about the *upcoming* foldable phones from Samsung, right? Even though it's still a few months until summer – when Samsung usually introduces the new Z Fold and Z Flip – the tech community is already getting excited and speculating about all sorts of things.
