@@ -6,7 +6,7 @@ categories: Guides
 excerpt_image: https://assets-ng.maxroll.gg/wordpress/huntress-amazon-feature1.webp
 image: https://assets-ng.maxroll.gg/wordpress/huntress-amazon-feature1.webp
 ---
-#[Guide] Woolie’s Bleed Amazon is NUTS – Full Breakdown, Mechanics, and Gear Tips
+# [Guide] Woolie’s Bleed Amazon is NUTS – Full Breakdown, Mechanics, and Gear Tips
 
 ## 🩸 **Bleed Amazon Build Guide (Woolie-style)**
 *For those who love agile playstyles, damage over time, and dancing around enemies like a whirlwind of blades and blood.*
